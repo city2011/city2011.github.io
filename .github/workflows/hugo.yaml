@@ -26,3 +26,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public  # Hugo 构建生成的静态文件在这个目录
+
+permissions:
+  contents: write
