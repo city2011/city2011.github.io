@@ -1,18 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://city2011.github.io/posts/my-first-post/</loc>
-    <lastmod>2025-11-05T01:48:12+08:00</lastmod>
-  </url><url>
-    <loc>https://city2011.github.io/posts/</loc>
-    <lastmod>2025-11-05T01:48:12+08:00</lastmod>
-  </url><url>
-    <loc>https://city2011.github.io/</loc>
-    <lastmod>2025-11-05T01:48:12+08:00</lastmod>
-  </url><url>
-    <loc>https://city2011.github.io/categories/</loc>
-  </url><url>
-    <loc>https://city2011.github.io/tags/</loc>
-  </url>
-</urlset>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>http://localhost:64059/posts/</loc><lastmod>2025-11-28T16:58:56&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:64059/posts/test1/</loc><lastmod>2025-11-28T16:58:56&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:64059/</loc><lastmod>2025-11-28T16:58:56&#43;08:00</lastmod></url><url>
+            <loc>http://localhost:64059/categories/</loc></url><url>
+            <loc>http://localhost:64059/tags/</loc></url></urlset>
